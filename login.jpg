@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!-- saved from url=(0041)https://silver-douhua-1403b0.netlify.app/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login Form</title>
+  <link rel="stylesheet" href="./login_files/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+<link href="./login_files/css2" rel="stylesheet">
+<style></style></head>
+<body>
+<div class="bg-img">
+  <div class="content">
+    <header>Log In</header>
+    <form action="https://silver-douhua-1403b0.netlify.app/#">
+      <div class="feild">
+      <span class="fa-fa-user"></span>
+      <input type="email" required="" placeholder="Enter Email">
+    </div>
+    <div class="feild space">
+      <span class="fa-fa-lock"></span>
+      <input type="password" required="" placeholder="Password" class="pass-key">
+      <span class="show">Show</span>
+
+    </div>
+    <div class="pass">
+      <a href="https://silver-douhua-1403b0.netlify.app/#">Forgot Password? Get Lost.</a>
+    </div>
+    <div class="feild">
+      <input type="submit" class="login" value="LOG IN">
+    </div>
+    </form>
+  </div>
+</div>
+
+<script src="./login_files/index.js.download"></script>
+
+</body></html>
